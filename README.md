@@ -6,3 +6,7 @@
 - [Подключение нестандартных шрифтов. Часть вторая](https://webfont.ru/blog/about-font-face-part-two/)
 
 [Ссылка на доку по CSS](https://github.com/alanko/fe-docs/blob/master/CSS.md)
+
+
+## Читать
+1.[Улучшаем опыт взаимодействия с формами](http://simonenko.su/38146501854/improving-ux-for-web-form)
