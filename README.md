@@ -7,6 +7,9 @@
 
 [Ссылка на доку по CSS](https://github.com/alanko/fe-docs/blob/master/CSS.md)
 
+## Наследуемые свойства css
+
+[Стандарт CSS](https://www.w3.org/TR/CSS21/propidx.html), Значение yes в колонке Inherited?.
 
 ## Читать
 1.[Улучшаем опыт взаимодействия с формами](http://simonenko.su/38146501854/improving-ux-for-web-form)
